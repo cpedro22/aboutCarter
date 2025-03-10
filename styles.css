@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #ADD8E6; /* Light Blue */
+}
+
+h1 {
+    color: #00698f;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#currentTime {
+    font-weight: bold;
+    color: #00698f; /* Match the color of your h1 elements */
+}
